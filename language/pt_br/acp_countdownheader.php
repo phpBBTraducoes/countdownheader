@@ -4,7 +4,7 @@
 * @package phpBB Extension - Countdown Header
 * @copyright (c) 2016 dmzx - http://www.dmzx-web.net
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.2] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2017][ver 1.0.2] (https://github.com/phpBBTraducoes)
 */
 
 if (!defined('IN_PHPBB'))
@@ -37,8 +37,8 @@ $lang = array_merge($lang, array(
 	'ACP_COUNTDOWNHEADER_CONFIG_SET'			=> 'Configuração',
 	'ACP_COUNTDOWNHEADER_VERSION'					=> 'Versão',
 	'ACP_COUNTDOWNHEADER_CONFIG_SAVED'				=> 'Configuração salva',
-	'ACP_COUNTDOWNHEADER_ENABLE'					=> 'Habilitar Countdown Header',
-	'ACP_COUNTDOWNHEADER_ENABLE_EXPLAIN'			=> 'Habilita ou desabilita o Countdown Header',
+	'ACP_COUNTDOWNHEADER_ENABLE'					=> 'Ativar Countdown Header',
+	'ACP_COUNTDOWNHEADER_ENABLE_EXPLAIN'			=> 'Ativar ou desativar o Countdown Header',
 	'ACP_COUNTDOWNHEADER_DATE' 						=> 'Formato da data',
 	'ACP_COUNTDOWNHEADER_DATE_EXPLAIN'				=> 'Exemplo: 2017/12/31 00:00:00',
 	'ACP_COUNTDOWNHEADER_TEXT_BIG' 					=> 'Texto grande',
